@@ -1,0 +1,19 @@
+{
+  "name": "Chaos Sultan",
+  "description": "This is the Chaos behaviour for Sultan",
+  "author": "D1yy",
+  "link": "https://github.com/D1yy-0/Stronghold-Crusader-Chaos-mod",
+  "version": "1.0.1",
+  "defaultLang": "en",
+  "supportedLang": ["en"],
+  "switched": {
+    "binks": false,
+    "speech": false,
+    "aic": true,
+    "aiv": false,
+    "lord": true,
+    "startTroops": true,
+    "lines": false,
+    "portrait": false
+  }
+}

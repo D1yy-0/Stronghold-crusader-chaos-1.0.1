@@ -1,0 +1,16 @@
+name: Chaos
+author: D1yy
+version: 1.0.1
+dependencies:
+  framework: ">=3.0.4"
+  frontend: ">=1.0.5"
+  aicloader: ">=1.1.0"
+  aiSwapper: ">=1.1.0"
+  maploader: ">=1.0.0"
+  ucp2-legacy: ">=2.15.1"
+  winProcHandler: ">=0.2.0"
+  Chaos-AI: ">=1.0.1"
+  Chaos-Applied: ">=1.0.1"
+  Chaos-AI-Applied: ">=1.0.1"
+type: plugin
+display-name: Chaos

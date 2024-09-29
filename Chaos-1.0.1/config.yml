@@ -1,0 +1,19 @@
+config-sparse:
+  modules:
+    aiSwapper:
+      config: {}
+    maploader:
+      config: {}
+    winProcHandler:
+      config: {}
+    ucp2-legacy:
+      config: {}
+    aicloader:
+      config: {}
+  plugins:
+    Chaos-AI:
+      config: {}
+    Chaos-Applied:
+      config: {}
+meta:
+  version: 1.0.1

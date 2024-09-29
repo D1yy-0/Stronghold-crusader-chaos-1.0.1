@@ -1,0 +1,6 @@
+name: improved
+author: D1yy
+version: 1.0.1
+dependencies:
+  framework: ">=3.0.4"
+  frontend: ">=1.0.5"
